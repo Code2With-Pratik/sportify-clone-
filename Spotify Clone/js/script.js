@@ -1,6 +1,6 @@
 // Wait for the DOM to load before running the main logic
 document.addEventListener("DOMContentLoaded", () => {
-    console.log('Lets write JavaScript');
+console.log('Lets write JavaScript');
 
     let currentSong = new Audio();
     let songs = [];
